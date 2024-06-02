@@ -1,0 +1,45 @@
+.task-trash{
+    color: red;
+}
+.task-state {
+    background-color: #e8e9eb;
+    border-radius: 10px;
+    color: black;
+    text-align: center;
+    width: 7rem;
+    margin-right: 1rem;
+}
+.task-circle-process{
+    color: mediumpurple;
+    font-weight: bold;
+}
+.task-title{
+    color: gray;
+}
+tr{
+    width: 10rem;
+}
+li{
+    width: 45rem;
+    border-radius: 15px;
+}
+td{
+    width: 10%;
+}
+td#column-2{
+    font-weight: bold;
+}
+#column-1{
+    width: 30%;
+    padding-left: 1.5rem;
+}
+#column-2{
+    width: 10rem;
+}
+#column-6{
+    width: 7%;
+}
+table{
+    margin-top: 5px;
+}
+

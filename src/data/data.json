@@ -1,0 +1,40 @@
+{
+  "taskList": [
+      {
+        "taskId": 1,
+        "taskContent": "Learn Java",
+        "taskPriority": "High",
+        "taskState": "Process"
+      },
+      {
+        "taskId": 2,
+        "taskContent": "Sleep",
+        "taskPriority": "High",
+        "taskState": "To do"
+      },
+      {
+        "taskId": 3,
+        "taskContent": "Learn Spring boot",
+        "taskPriority": "Low",
+        "taskState": "To do"
+      },
+      {
+        "taskId": 4,
+        "taskContent": "Learn VueJs",
+        "taskPriority": "Medium",
+        "taskState": "Process"
+      },
+      {
+        "taskId": 5,
+        "taskContent": "Learn Math",
+        "taskPriority": "High",
+        "taskState": "Process"
+      },
+      {
+        "taskId": 6,
+        "taskContent": "Learn Python",
+        "taskPriority": "Low",
+        "taskState": "Process"
+      }
+  ]
+}
